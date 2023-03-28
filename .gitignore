@@ -1,0 +1,14 @@
+## ignore latex auxiliary output
+*.4ct
+*.4tc
+*.aux
+*.dvi
+*.idv
+*.lg
+*.log
+*.tmp
+*.xref
+*.log
+
+## ignore draw.io/diagram.net temporary files
+*.drawio.bkp
